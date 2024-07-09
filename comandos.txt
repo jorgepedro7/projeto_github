@@ -13,3 +13,8 @@ git remote add origin https://github.com/jeffersongvs/projeto_github.git
 
 -> enviar 
 git push -u origin main
+
+So seguir a triade
+git add .
+git commit -m
+git push
